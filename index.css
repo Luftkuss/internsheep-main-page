@@ -1,19 +1,20 @@
-@import url(blocks/body/body.css);
+@import url(./blocks/body/body.css);
 
-@import url(blocks/head/head.css);
+@import url(./blocks/head/head.css);
 
-@import url(blocks/logo/__text/logo__text.css);
-@import url(blocks/logo/__image/logo__image.css);
-@import url(blocks/logo/logo.css);
+@import url(./blocks/logo/__text/logo__text.css);
+@import url(./blocks/logo/__image/logo__image.css);
+@import url(./blocks/logo/logo.css);
 
-@import url(blocks/navigation/__enter-text/navigation__enter-text.css);
-@import url(blocks/navigation/__image/navigation__image.css);
-@import url(blocks/navigation/__item/navigation__item.css);
-@import url(blocks/navigation/__text/navigation__text.css);
-@import url(blocks/navigation/navigation.css);
+
+@import url(./blocks/navigation/__enter-text/navigation__enter-text.css);
+@import url(./blocks/navigation/__image/navigation__image.css);
+@import url(./blocks/navigation/__item/navigation__item.css);
+@import url(./blocks/navigation/__text/navigation__text.css);
+@import url(./blocks/navigation/navigation.css);
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
 
-@import url(blocks);
+@import url(./blocks);
 
-@import url(blocks/main/main.css);
+@import url(./blocks/main/main.css);
