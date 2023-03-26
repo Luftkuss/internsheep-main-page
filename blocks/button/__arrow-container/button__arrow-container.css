@@ -1,0 +1,5 @@
+.button__arrow-container {
+    display: flex;
+    border: 1px solid #7ECEFF;
+    border-radius: 9px;
+}

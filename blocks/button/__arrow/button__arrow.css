@@ -1,0 +1,10 @@
+.button__arrow{
+    display: flex;
+    align-items: center;
+    
+    background: #00A3FF;
+    border-radius: 12px;
+    margin-top: 32px;
+    padding: 4px 4px 4px 24px;
+    gap: 20px;
+}

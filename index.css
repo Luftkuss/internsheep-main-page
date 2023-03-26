@@ -18,3 +18,16 @@
 @import url(./blocks);
 
 @import url(./blocks/main/main.css);
+
+@import url(./blocks/start/start.css);
+@import url(./blocks/start/__description/start__description.css);
+@import url(./blocks/start/__item/start__item.css);
+@import url(./blocks/start/__row-undertext/start__row-undertext.css);
+@import url(./blocks/start/__text/start__text.css);
+@import url(./blocks/start/__yandex-logo/start__yandex-logo.css);
+
+@import url(./blocks/button/button.css);
+@import url(./blocks/button/__arrow/button__arrow.css);
+@import url(./blocks/button/__arrow-image/buttom__arrow-image.css);
+@import url(./blocks/button/__arrow-text/buttom__arrow-text.css);
+@import url(./blocks/button/__arrow-container/button__arrow-container.css);

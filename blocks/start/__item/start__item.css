@@ -1,0 +1,8 @@
+.start__item {
+    display: flex;
+    gap: 10px;
+    padding: 12px 16px;
+    background: #FFFFFF;
+    border: 1px solid #EAF2F7;
+    border-radius: 16px;
+}
