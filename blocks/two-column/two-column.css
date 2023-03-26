@@ -1,0 +1,5 @@
+.two-column{
+    display: flex;
+    margin-top: 233px;
+    gap: 16px;
+}

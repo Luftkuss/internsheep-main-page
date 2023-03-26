@@ -1,0 +1,12 @@
+.card__highlight{
+    margin: 0px;
+    margin-top: 16px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 116%;
+    margin-bottom: 24px;
+
+    color: #203845;
+}

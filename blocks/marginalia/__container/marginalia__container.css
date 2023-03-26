@@ -1,0 +1,8 @@
+.marginalia__container{
+    display: flex;
+    border: 1px solid #EAF2F7;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    height: fit-content;
+}
