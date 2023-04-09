@@ -6,4 +6,9 @@
     font-size: 64px;
     line-height: 109.3%;
     text-align: center;
+    width: 1074px;
+}
+
+.start__text:nth-child(2n+1){
+    width: auto;
 }

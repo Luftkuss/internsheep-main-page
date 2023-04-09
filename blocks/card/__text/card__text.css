@@ -7,4 +7,9 @@
     line-height: 135%;
     color: #203845;
     margin-bottom: 12px;
+    max-width: 435px;
+}
+
+.card__text:nth-child(2n){
+    max-width: 381px;
 }

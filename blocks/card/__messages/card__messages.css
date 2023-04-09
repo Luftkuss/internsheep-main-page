@@ -1,0 +1,10 @@
+.card__messages{
+    margin-top: 114px;
+    width: 476px;
+}
+
+@media (max-width: 1439px) {
+    .card__messages {
+        margin-top: 72px;
+    }
+}

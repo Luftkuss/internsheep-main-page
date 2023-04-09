@@ -1,7 +1,7 @@
-.card__arrow{
-    position: absolute;
-    top: 370px;
-    left: 421px;
+.card__image{
+    margin-top: 82px;
+    margin-bottom: 42px;
+    width: 100%;
 }
 
 @media (max-width: 1439px) {

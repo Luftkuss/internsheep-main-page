@@ -2,4 +2,11 @@
     display: flex;
     margin-top: 233px;
     gap: 16px;
+    justify-content: center;
+}
+
+@media (max-width: 1199px) {
+    .two-column {
+        flex-wrap: wrap;
+    }
 }
