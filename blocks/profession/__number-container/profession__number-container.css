@@ -1,0 +1,9 @@
+.profession__number-container {
+    display: flex;
+    background: #BD9DFD;
+    border-radius: 21px;
+    width: 32px;
+    height: 32px;
+    justify-content: center;
+    align-items: center;
+}

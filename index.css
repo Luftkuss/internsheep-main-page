@@ -43,8 +43,23 @@
 @import url(./blocks/card/__image/card__image.css);
 @import url(./blocks/card/__messages/card__messages.css);
 @import url(./blocks/card/__answer/card__answer.css);
+@import url(./blocks/card/__width/_l/card__width_l.css);
+@import url(./blocks/card/__margin/_p/card__margin_p.css);
 
 @import url(./blocks/two-column/two-column.css);
+
+@import url(./blocks/profession/profession.css);
+@import url(./blocks/profession/__card-container/profession__card-container.css);
+@import url(./blocks/profession/__card/profession__card.css);
+@import url(./blocks/profession/__cards/profession__cards.css);
+@import url(./blocks/profession/__description/profession__description.css);
+@import url(./blocks/profession/__info-row/profession__info-row.css);
+@import url(./blocks/profession/__number-container/profession__number-container.css);
+@import url(./blocks/profession/__number/profession__number.css);
+@import url(./blocks/profession/__number_colour/profession__number_colour.css);
+@import url(./blocks/profession/__text/profession__text.css);
+@import url(./blocks/profession/__image/profession__image.css);
+
 
 @import url(./blocks);
 

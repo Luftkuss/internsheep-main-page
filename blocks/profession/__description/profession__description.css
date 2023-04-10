@@ -1,0 +1,12 @@
+.profession__description {
+    margin-top: 16px;
+    
+    width: 310px;
+    height: 46px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 130%;
+}

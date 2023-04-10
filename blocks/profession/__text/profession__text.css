@@ -1,0 +1,11 @@
+.profession__text {
+    width: 172px;
+    height: 38px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 120%;
+    color: #203845;
+    margin: 0px;
+}
