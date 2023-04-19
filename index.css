@@ -59,6 +59,14 @@
 @import url(./blocks/profession/__number_colour/profession__number_colour.css);
 @import url(./blocks/profession/__text/profession__text.css);
 @import url(./blocks/profession/__image/profession__image.css);
+@import url(./blocks/profession/__add/profession__add.css);
+@import url(./blocks/profession/__button/profession__button.css);
+@import url(./blocks/profession/__image/_add/profession__image_add.css);
+
+@import url(./blocks/features/features.css);
+@import url(./blocks/features/__card/features__card.css);
+
+
 
 
 @import url(./blocks);
